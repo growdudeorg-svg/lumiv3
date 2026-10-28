@@ -1,0 +1,24 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Editor & IDE directories
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Local runtime & tests
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.system_generated/
+test-overflow.ps1
+clean-logo.ps1
+process-logo.ps1
+edge_mobile*.png
+screenshot*.png

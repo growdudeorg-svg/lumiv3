@@ -1,0 +1,21 @@
+{
+  "name": "lumicentric-interiors",
+  "version": "1.0.0",
+  "description": "Lumicentric Interiors - Turnkey Luxury Interior Design & Epoxy Flooring in Mumbai",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Lumicentric static site ready for Vercel deployment'"
+  },
+  "keywords": [
+    "interior-design",
+    "lumicentric",
+    "turnkey-interiors",
+    "mumbai",
+    "epoxy-flooring",
+    "modular-kitchen"
+  ],
+  "author": "Lumicentric Interiors",
+  "license": "MIT"
+}
